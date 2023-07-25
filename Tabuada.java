@@ -42,7 +42,7 @@ public class Tabuada {
 	}
 	
 	public static void tabUniv() {
-		int b =0;
+		int b =1;
 		for(; b<=10;b++) {
 			System.out.println("");
 			for(int i=0;i<=10;i++) {
