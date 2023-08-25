@@ -17,6 +17,11 @@ Algoritmo que retorna a tabuada de determinado número ou todas as tabuadas do 1
   >Demonstração do código executado
 </div>
 
+<h2>🔨 Funcionalidades</h2>
+
+- `Funcionalidade 1` : Design responsivo usando o conceito mobile first.
+- `Funcionalidade 2` : Menu central utilizado em telas menores.
+
 <h2>:file_folder: Como ter acesso ao projeto</h2>
 Basta baixar o arquivo em sua máquina, ter o java (da versão 14 em diante para rodar sem problemas) e alguma IDE instalada.
 
